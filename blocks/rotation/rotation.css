@@ -7,11 +7,7 @@
   }
 }
 
-.header__square-pic {
-  animation: rotate_infinite 20s linear infinite forwards;
-}
-
-.kaufman__trianlge {
+.rotation {
   animation: rotate_infinite 20s linear infinite forwards;
 }
 
