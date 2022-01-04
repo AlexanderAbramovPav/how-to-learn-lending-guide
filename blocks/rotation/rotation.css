@@ -6,3 +6,14 @@
       transform: rotate(360deg);
   }
 }
+
+.header__square-pic {
+  animation: rotate_infinite 20s linear infinite forwards;
+}
+
+.kaufman__trianlge {
+  animation: rotate_infinite 20s linear infinite forwards;
+}
+
+
+
