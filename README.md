@@ -1,20 +1,20 @@
-# Практический гайд - как научиться учиться
+# Practical guide - how to learn
 
-Сайт содержит современные и эффективные подходы к обучению, которые можно использовать в своей жизни.
+The site contains modern and effective approaches to learning that you can use in your life.
 
-## Описание проекта
+## Project Description
 
-Многим людям очень трудно даётся обучение, потому что многие используют неэффектиные или неподходящие для себя подходы к обучению. Данный практический гайд призван развеять сомнения, что обучение - это всегда трудно, долго и бесполезно.
+Many people find it very difficult to learn, because many use ineffective or unsuitable approaches to learning. This practical guide is designed to dispel doubts that learning is always difficult, long and useless.
 
-## Используемые технологии
+## Technologies used
 
-* Hyper Text Markup Language (HTML) – язык разметки гипертекста.
-* Cascading Style Sheets (CSS) — каскадные таблицы стилей — формальный язык описания внешнего вида документа, написанного с использованием языка разметки. CSS используется для задания цветов, шрифтов, расположения отдельных блоков и других аспектов представления внешнего вида веб-страниц.
+* Hyper Text Markup Language (HTML) – hypertext markup language.
+* Cascading Style Sheets (CSS) — cascading style sheets are a formal language for describing the appearance of a document written using a markup language. CSS is used to specify colors, fonts, the location of individual blocks and other aspects of the presentation of the appearance of web pages.
 
-## Системные требования
+## System requirements
 
-HTMLv5
+HTMLv5, CSS3
 
-## Планы по доработке
+## Improvement plans
 
-Заменить href в ссылках с "#" на реальные адреса сайтов
+Make the site adaptive
